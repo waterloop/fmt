@@ -1,0 +1,22 @@
+type: pkg
+
+project:
+  name: wio-fmt
+  version: 5.3.0
+  author: fmtlib
+  license: BSD-2-Clause
+  repository: https://github.com/fmtlib/fmt
+  keywords:
+  - wio
+  - pkg
+  - fmt
+  - c++
+  compile_options:
+    wio_version: 0.6.1
+    default_target: tests
+
+targets:
+  tests:
+    src: wio-tests
+    platform: native
+

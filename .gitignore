@@ -32,3 +32,6 @@ FMT.build
 Makefile
 run-msbuild.bat
 fmt.pc
+
+# wio
+.wio

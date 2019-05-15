@@ -2,7 +2,7 @@ type: pkg
 
 project:
   name: wio-fmt
-  version: 5.3.0
+  version: 5.3.1
   author: fmtlib
   license: BSD-2-Clause
   repository: https://github.com/fmtlib/fmt
